@@ -1,5 +1,4 @@
-
-  { "id": 1, "description": "Post 1" , "name": "test"},
-    { "id": 2, "description": "Post 2" , "name": "test"},
-    { "id": 3, "description": "Post 3" , "name": "test"}
- 
+{"values": [
+  { "name": "repoted by me", "description": "", "cql":"createdBy = me"}
+ ]
+}
