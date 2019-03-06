@@ -1,7 +1,14 @@
-{
-  "fields": [
-    { "id": 1, "description": "test1 description" , "name" : "test1"},
-    { "id": 2, "description": "test2 description" , "name" : "test2"},
-    { "id": 3, "description": "test3 description" , "name" : "test3"}
-  ]
-}
+[
+  {
+    "description": "test1 Description",
+    "id": "asdadfdafssf",
+    "name": "test1",
+    
+  },
+  {
+    "description": "test2 Description",
+    "id": "uioyturtry",
+    "name": "test2",
+    
+  }
+]
