@@ -1,6 +1,6 @@
 {"values": [
-  { "name": "repoted by me", "description": "", "cql":"createdBy = me"},
-  { "name": "issue", "description": "test2 desc query", "cql":"createdBy = manager"},
-  { "name": "create name", "description": "test3 desc", "cql":"createdBy = employee"}
+  { "Id": "1" , name": "repoted by me", "description": "", "cql":"createdBy = me"},
+  { "Id": "2" , "name": "issue", "description": "test2 desc query", "cql":"createdBy = manager"},
+  { "Id": "3" , "name": "create name", "description": "test3 desc", "cql":"createdBy = employee"}
  ]
 }
