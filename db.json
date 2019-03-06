@@ -1,4 +1,6 @@
 {"values": [
-  { "name": "repoted by me", "description": "", "cql":"createdBy = me"}
+  { "name": "repoted by me", "description": "", "cql":"createdBy = me"},
+  { "name": "issue", "description": "test2 desc query", "cql":"createdBy = manager"},
+  { "name": "create name", "description": "test3 desc", "cql":"createdBy = employee"}
  ]
 }
