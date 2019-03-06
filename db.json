@@ -1,11 +1,9 @@
- {
-    "description": "test1 Description",
+ "feilds" :[
+  {"description": "test1 Description",
     "id": "asdadfdafssf",
-    "name": "test1",
-  },
-  {
-    "description": "test2 Description",
+    "name": "test1", },
+  
+ {"description": "test2 Description",
     "id": "uioyturtry",
-    "name": "test2",
-  }
-
+    "name": "test2",}
+ ]
